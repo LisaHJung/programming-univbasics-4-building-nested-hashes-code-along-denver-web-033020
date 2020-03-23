@@ -1,52 +1,3 @@
-def first_challenge
-epic_tragedy = {
-  :montague => {
-    :patriarach ={}
-    :matriarch ={}
-    :hero ={}
-    :hero_friends= []
-  },
-  :capulet => {
-    
-  }
-}
-end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=begin
 def second_challenge
 epic_tragedy = {
    :montague => {
@@ -63,4 +14,3 @@ epic_tragedy = {
    }
 }
 end
-=end
